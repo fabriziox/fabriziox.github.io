@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Olá
+title: "Olá"
 ---
 
 ## Bom dia a todos!
